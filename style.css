@@ -1,0 +1,28 @@
+h1{
+  color: hotpink;
+  font-size: 2.5 em;
+}
+html{
+  background: darkblue;
+  text-align: center;
+}
+body{
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%
+}
+#about{
+  color:white
+}
+#likes{
+  color:white
+}
+#dislikes{
+  color:white
+}
+#fun{
+  color:white
+}
+#fave{
+  color:white
+}
